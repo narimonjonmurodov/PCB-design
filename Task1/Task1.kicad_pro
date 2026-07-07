@@ -240,7 +240,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": "Narimonjon"
+      "sch_revision": ""
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Task 1.kicad_pro",
+    "filename": "Task1.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -643,17 +643,17 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "Task 1.kicad_sch",
+        "filename": "Task1.kicad_sch",
         "name": "Root",
-        "uuid": "294d61b4-fcd3-4408-8f5a-e720537bebad"
+        "uuid": "04376b73-770c-4040-bf04-5e152b18a69b"
       }
     ],
-    "used_designators": "#FLG1-2,#PWR1-2,Q1,C1-2,D1-2,R1-4,SW1,T2,BT1",
+    "used_designators": "Q1,C1-2,D1,LED2,R1-4,SW1,T2,BT1",
     "variants": []
   },
   "sheets": [
     [
-      "294d61b4-fcd3-4408-8f5a-e720537bebad",
+      "04376b73-770c-4040-bf04-5e152b18a69b",
       "Root"
     ]
   ],
