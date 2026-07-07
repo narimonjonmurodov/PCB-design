@@ -1,5 +1,9 @@
-#Astable Multivibrator PCB Design
+# Astable Multivibrator PCB Design [Link](./Task1/)
+---
 
+[image](./media/1.png)  
+
+---
 ## Description
 This project contains the schematic and 3D PCB design of a two-transistor astable multivibrator created in KiCad. The circuit alternately blinks two LEDs using two BC237 NPN transistors, RC timing components, and a CR2032 battery.
 
