@@ -21,6 +21,18 @@ This project contains the schematic and 3D PCB design of a two-transistor astabl
 - 1 × Push Button Switch
 - 1 × CR2032 Battery Holder
 
+# Tiny Solar Supply (3.3V) [Link](./Task2/)
+
+A compact solar harvesting power supply designed to provide a stable 3.3V output from variable sunlight.
+
+## Overview
+This project is a custom PCB designed in KiCad for low-power embedded applications. It efficiently harvests energy from solar sources and regulates it to a consistent 3.3V.
+
+## Project Contents
+* **Hardware Design:** KiCad project files for the PCB.
+* **BOM:** Bill of Materials (Excel file) included in the repository. [Link](./Task2/BOM)
+* **Documentation:** Schematics and design files are available for review.
+
 ## Software
 - KiCad
 
