@@ -23,6 +23,9 @@ This project contains the schematic and 3D PCB design of a two-transistor astabl
 
 # Tiny Solar Supply (3.3V) [Link](./Task2/)
 
+![image](./media/2_front.png)  
+![image](./media/2_back.png)  
+
 A compact solar harvesting power supply designed to provide a stable 3.3V output from variable sunlight.
 
 ## Overview
